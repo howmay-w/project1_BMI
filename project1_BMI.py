@@ -35,7 +35,5 @@ elif Δ == 0:
 else :
     print()
 
-# 輸出回應ㄋ
+# 輸出回應
 print('\n'"a 不可為 0" if a == 0  else "")
-
-#測試
